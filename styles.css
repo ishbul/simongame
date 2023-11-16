@@ -39,6 +39,13 @@ body {
   background-color: green;
 }
 
+#credits {  font-family: 'Press Start 2P', cursive;
+  font-size: 1rem;
+  margin:  5%;
+  color: #FEF2BF;
+         }
+  
+
 .blue {
   background-color: blue;
 }
